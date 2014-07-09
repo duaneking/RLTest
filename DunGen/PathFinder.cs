@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+///
+/// This code was heavily inspired by
+/// the stuff at http://www.csharpcity.com/reusable-code/a-path-finding-library/
+///
 
 namespace DunGen
 {
