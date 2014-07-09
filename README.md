@@ -3,12 +3,7 @@ GameDev
 
 Just a collection of Roguelike level generators.
 
-Level types:
-  Nethack-ish
-  BSP tree
-  One big-honkin room
-  2 differnt "natural caverns" based on cellular automa
-  A cross-shaped level with random dimensions
+Level types: Nethack-Style, BSP Tree, Big Honkin Room, 2 Cellular Automa "caverns", and a randomly sized cross
 
 Line of Sight!
 
