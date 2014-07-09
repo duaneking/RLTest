@@ -17,5 +17,6 @@ Fast A* pathfinding
 Levels have a bunch of base-line attributes that any roguelike would need.
 
 THIS IS RELEASED UNDER THE "DON'T BE A DICK" LICENSE
+
 You can use this stuff for whatever you want, but please don't
 pass it off as your own work.
