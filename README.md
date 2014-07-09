@@ -20,3 +20,6 @@ THIS IS RELEASED UNDER THE "DON'T BE A DICK" LICENSE
 
 You can use this stuff for whatever you want, but please don't
 pass it off as your own work.
+
+Want to add some changes? Have a cool new level type? Etc?
+Create a fork, get to work, and let me know what you come up with!
